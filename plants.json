@@ -5,14 +5,14 @@
             "schedule": "monthly",
             "type": "Succulent",
             "description": "Stone mimicking succulent",
-            "image": "https://images.immediate.co.uk/production/volatile/sites/10/2020/07/2048x1365-How-to-grow-care-for-lithops-GG-Monty_Don_Longmeadow_JI_081018_MontyDon_328-07334ac.jpg"
+            "image": "https://cdn.britannica.com/41/38341-004-FDD380D3/Lithops.jpg"
         },
         {
             "name": "Carrot",
             "schedule": "daily",
             "type": "Root",
             "description": "Hardy root vegetable",
-            "image": "https://www.shutterstock.com/image-photo/carrot-isolated-on-white-background-600nw-795704785.jpg"
+            "image": "https://t4.ftcdn.net/jpg/04/95/71/77/360_F_495717703_reS46YL1piqSyZlgTRuAWcanUhM6A2FB.jpg"
         },
         {
             "name": "Peony",
