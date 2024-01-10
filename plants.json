@@ -4,37 +4,43 @@
             "name": "Lithop",
             "schedule": "monthly",
             "type": "Succulent",
-            "description": "Stone mimicking succulent"
+            "description": "Stone mimicking succulent",
+            "image": "https://images.immediate.co.uk/production/volatile/sites/10/2020/07/2048x1365-How-to-grow-care-for-lithops-GG-Monty_Don_Longmeadow_JI_081018_MontyDon_328-07334ac.jpg"
         },
         {
             "name": "Carrot",
             "schedule": "daily",
             "type": "Root",
-            "description": "Hardy root vegetable"
+            "description": "Hardy root vegetable",
+            "image": "https://www.shutterstock.com/image-photo/carrot-isolated-on-white-background-600nw-795704785.jpg"
         },
         {
             "name": "Peony",
             "schedule": "weekly",
             "type": "Flower",
-            "description": "Spring blooming flower"
+            "description": "Spring blooming flower",
+            "image": "https://www.centrobotanicomoutan.it/images/catalogo/peonia-bellezze-gemelle.jpg"
         },
         {
             "name": "Pothos",
             "schedule": "weekly",
             "type": "Houseplant",
-            "description": "Indoor vine"
+            "description": "Indoor vine",
+            "image": "https://www.viridea.it/wp-content/uploads/2014/04/Pothos.jpg"
         },
         {
             "name": "Fiddle Leaf Fig",
             "schedule": "weekly",
             "type": "Broadleaf evergreen",
-            "description": "Ornamental fig"
+            "description": "Ornamental fig",
+            "Image": "https://hortology.co.uk/cdn/shop/products/Ficus-lyrata-Bambino-Dwarf-Fiddle-Leaf-Fig-21x50cm_2stems_-1_1200x.jpg"
         },
         {
             "name": "Strawberry",
             "schedule": "daily",
             "type": "Fruit",
-            "description": "Delicious 'multiple fruit'"
+            "description": "Delicious 'multiple fruit",
+            "Image": "https://strawberryplants.org/wp-content/uploads/How-Tall-Do-Strawberry-Plants-Grow-featured.jpg"
         }
     ]
 }
