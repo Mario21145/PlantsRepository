@@ -19,7 +19,7 @@
             "schedule": "weekly",
             "type": "Flower",
             "description": "Spring blooming flower",
-            "image": "https://www.centrobotanicomoutan.it/images/catalogo/peonia-bellezze-gemelle.jpg"
+            "image": "https://img.freepik.com/premium-psd/pink-peony-flower-transparent-background-png-clipart_88754-449.jpg"
         },
         {
             "name": "Pothos",
@@ -40,7 +40,7 @@
             "schedule": "daily",
             "type": "Fruit",
             "description": "Delicious 'multiple fruit",
-            "Image": "https://strawberryplants.org/wp-content/uploads/How-Tall-Do-Strawberry-Plants-Grow-featured.jpg"
+            "Image": "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg2Mzc4MzUtaW1hZ2Utam9iNjIxXzUucG5n.png"
         }
     ]
 }
