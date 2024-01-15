@@ -33,14 +33,14 @@
             "schedule": "weekly",
             "type": "Broadleaf evergreen",
             "description": "Ornamental fig",
-            "Image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Large-Fiddle-Leaf-Fig-Tree_Large_Isabella_Almond_Variant.jpg"
+            "image": "https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_Large-Fiddle-Leaf-Fig-Tree_Large_Isabella_Almond_Variant.jpg"
         },
         {
             "name": "Strawberry",
             "schedule": "daily",
             "type": "Fruit",
             "description": "Delicious 'multiple fruit",
-            "Image": "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg2Mzc4MzUtaW1hZ2Utam9iNjIxXzUucG5n.png"
+            "image": "https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg2Mzc4MzUtaW1hZ2Utam9iNjIxXzUucG5n.png"
         }
     ]
 }
